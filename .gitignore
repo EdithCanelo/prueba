@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+=======
+**/ ".2nombre de fichero"
+**/ .Ds_Store
+>>>>>>> c624b88 (Para ignorar ciertos ficheros innecesarios)
